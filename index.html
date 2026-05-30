@@ -252,9 +252,22 @@
         </div>
     </section>
     <section id="pendaftaran">
-        <div id="container">
+        <div class="container">
             <h2 class="text-center mb-5">Form Pendaftaran</h2>
+
+            <input type="text" id="nama" class="form-control mb-3" placeholder="Masukkan nama">
+            <input type="number" id="usia" class="form-control mb-3" placeholder="Masukkan Umur">
+            <p>Pilih Kelas :</p>
+            <select id="kelas" class="form-control mb-3">
+                <option value="">-- Pilih Kelas --</option>
+                <option value="Iqra">Iqra</option>
+                <option value="Juz Amma">Juz Amma</option>
+                <option value="Al-Qur'an">Al-Qur'an</option>
+            </select>
+            <button id="btnDaftar" class="btn btn-success">Daftar</button>
+            <div id="hasil"></div>
         </div>
+        
     </section>
 </body>
 
