@@ -53,3 +53,11 @@ section{
 #teachers h2{
     margin-bottom: 40px;
 }
+
+#galery{
+    padding: 80px;
+}
+
+#galery img{
+    margin-bottom: 15px;
+}
