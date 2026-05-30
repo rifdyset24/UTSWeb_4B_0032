@@ -36,3 +36,12 @@ section{
 #program h2{
     margin-bottom: 40px;
 }
+
+#classes{
+    padding: 80px 0;
+    background-color: #f8f9fa;
+}
+
+#classes h2{
+    margin-bottom: 40px;
+}
