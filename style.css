@@ -27,3 +27,12 @@ section{
 .card{
     height: 100%;
 }
+
+#program{
+    padding: 80px 0;
+    background-color: #f8f9fa;
+}
+
+#program h2{
+    margin-bottom: 40px;
+}
